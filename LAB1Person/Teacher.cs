@@ -6,23 +6,16 @@ namespace LAB1Person
 {
     public class Teacher : Student
     {
-        public List<Student> kid;
-        List<Student> stu = new List<Student>();
         public Teacher(string name) : base(name) {}
-        public void Spisok(List<Student> kids)
+        public void AddStudent(List<Student> kids)
         {
-            this.kid = kids;
+            List<Student> students = new List<Student>();
         }
 
         public Student Display(Student a)
         {
             return a;
         }
-        /*public Student Spisok(Student kids)
-        {
-            this.kid = kids;
-            return kid;
-        }*/
         public override string ToString() {
             return base.ToString();
         }
@@ -38,7 +31,5 @@ namespace LAB1Person
         {
             Console.WriteLine("Print name" + Name);
         }
-
-
     }
 }

@@ -21,16 +21,16 @@ namespace LAB1Person
             Teacher teacher = new Teacher("name");
             Teacher[] massive = new Teacher[size];
             massive[0] = new Teacher("TEAcher");
-            massive[0].Spisok(kid);  
-            //massive[1] = teacher.Spisok();
-            //Console.WriteLine("Massive Teacher  " + massive.GetType());
+            massive[0].AddStudent(kid);  
             Console.WriteLine("Massive   " + massive[0].Display());
         }
-        
+    }
+    public class Person
+    {
         public string Name { get; set; }
-        public Program(string name) { Name = name; }
+        public Person(string name) { Name = name; }
 
-        protected Program(){}
+        protected Person(){}
 
         public virtual void Print() { Console.WriteLine(Name); }
 

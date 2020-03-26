@@ -18,9 +18,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LAB1Person/Student.cs" />
         <option value="$PROJECT_DIR$/LAB1Person/Teacher.cs" />
         <option value="$PROJECT_DIR$/LAB1Person/Program.cs" />
+        <option value="$PROJECT_DIR$/LAB1Person/Student.cs" />
       </list>
     </option>
   </component>
@@ -83,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

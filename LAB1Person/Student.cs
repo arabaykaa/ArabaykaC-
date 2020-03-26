@@ -2,7 +2,7 @@
 
 namespace LAB1Person
 {
-    public class Student
+    public class Student : Person
     {
         Student(){}
         public Student(string name) : base(name) {}
