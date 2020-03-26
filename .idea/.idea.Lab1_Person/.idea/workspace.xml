@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LAB1Person/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LAB1Person/Student.cs" root0="FORCE_HIGHLIGHTING" />
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZcCB2wcUNeFUHh8AGU2Vkdgwrm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -64,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585128863058</updated>
       <workItem from="1585128878963" duration="9066000" />
-      <workItem from="1585218468339" duration="10946000" />
+      <workItem from="1585218468339" duration="11699000" />
     </task>
     <servers />
   </component>
