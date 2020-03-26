@@ -7,7 +7,6 @@ namespace LAB1Person
     {
         static void Main(string[] args) {
             Console.WriteLine("Hi");
-            RandomPerson();
             Student student = new Student("Aaa");
             Type myType = student.GetType();
             Type baseType = typeof(Student);
@@ -45,20 +44,6 @@ namespace LAB1Person
 
         public override int GetHashCode() {
             return base.GetHashCode();
-        }
-
-        static void RandomPerson()
-        {
-            int[] mass = new int[10];
-            int i;
-            Random rand = new Random();
-            for (i=0; i<mass.Length; i++)
-            {
-                mass[i] = rand.Next(10);
-                Console.Write(" "+mass[i]);
-            }
-            Console.WriteLine();
-            Console.WriteLine("Mass rand number: " + mass[rand.Next(10)]);
         }
     }
 }

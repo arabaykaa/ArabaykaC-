@@ -18,9 +18,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LAB1Person/Program.cs" />
-        <option value="$PROJECT_DIR$/LAB1Person/Teacher.cs" />
         <option value="$PROJECT_DIR$/LAB1Person/Student.cs" />
+        <option value="$PROJECT_DIR$/LAB1Person/Teacher.cs" />
+        <option value="$PROJECT_DIR$/LAB1Person/Program.cs" />
       </list>
     </option>
   </component>
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585128863058</updated>
       <workItem from="1585128878963" duration="9066000" />
-      <workItem from="1585218468339" duration="12159000" />
+      <workItem from="1585218468339" duration="12627000" />
     </task>
     <servers />
   </component>
